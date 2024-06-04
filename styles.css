@@ -1,0 +1,26 @@
+table{
+    border-style: outset;
+    border-width: 3px;
+    border-spacing: 5px;
+    border-color: red;
+}
+
+th, td{
+    border-style: inset;
+    border-width: 2px;
+    border-color: greenyellow;
+    text-align: center;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+}
+
+img{
+    height: 10%;
+    width: 10%;
+}
